@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **Omprakash Khawshi**
 - 👀 I’m interested in **Coding**
 - 🌱 I’m currently learning **New Things**
-- 💞️ I’m looking to collaborate on **Angular, C#**
+- 💞️ I’m looking to collaborate on **Angular, .Net, SQL Server**
 - 📫 How to reach me **khawshi.omprakash@prescinto.ai**
 
 <!---
